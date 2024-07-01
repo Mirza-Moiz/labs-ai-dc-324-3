@@ -1,2 +1,2 @@
-txt = input("Type something to test this out: AI TASK ")
+txt = input("Type something to test this out: ")
 print(txt)
